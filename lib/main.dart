@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
                 location: 'Ubicado en Ecuador',
               ),
               ImageSection(
-                image: 'images/lake.jpg' ),
+                image: 'lib/assets/lake.jpg' ),
               ButtonSection(),
               TextSection(
                 description: 
